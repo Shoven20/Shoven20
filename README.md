@@ -5,8 +5,7 @@
 ### 🛠 Technical Expertise
 
 **Programming & Logic:**
-![C](https://img.shields.io/badge/c-%23009571.svg?style=for-the-badge&logo=c&logoColor=white)
-![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C/CPP](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
