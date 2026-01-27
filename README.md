@@ -25,17 +25,17 @@
 ### 📊 System Analytics & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shoven20&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoven20&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" />
 </p>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shoven20&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
 </div>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoven20&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
 
@@ -43,7 +43,7 @@
 
 ## 🕹️ Contribution Game
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoven20/shoven20/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoven20/shoven20/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shoven20/shoven20/output/pacman-contribution-graph.svg">
 </picture>
